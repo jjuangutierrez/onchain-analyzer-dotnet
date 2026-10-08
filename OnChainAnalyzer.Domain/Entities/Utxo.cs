@@ -9,8 +9,11 @@ public record Utxo
     public BitcoinAmount Amount { get; }
     public int? BlockHeight { get; }
     public bool IsConfirmed => BlockHeight.HasValue;
+    public DateTime? BlockDate { get; }
+    public int? AgeInDays => BlockDate.HasValue ? (int)(DateTime.UtcNow - BlockDate.Value).TotalDays : null;
+
     
-    public Utxo(string transactionId, int outputIndex, BitcoinAmount amount, int? blockHeight)
+    public Utxo(string transactionId, int outputIndex, BitcoinAmount amount, int? blockHeight, DateTime? blockDate)
     {
         ArgumentException.ThrowIfNullOrEmpty(transactionId);
         ArgumentNullException.ThrowIfNull(amount);
@@ -25,10 +28,17 @@ public record Utxo
         
         if (blockHeight < 0)
             throw new ArgumentOutOfRangeException(nameof(blockHeight), "Block height must be greater than or equal to zero.");
+
+        if (blockDate.HasValue && blockDate.Value < new DateTime(2009, 1, 3))
+        {
+            throw new ArgumentOutOfRangeException(nameof(blockDate), "Block date must be grater than January 3 2009");
+        }
         
         TransactionId = transactionId;
         OutputIndex = outputIndex;
         Amount = amount;
         BlockHeight = blockHeight;
+        BlockDate = blockDate;
     }
+    
 }

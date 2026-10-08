@@ -1,0 +1,287 @@
+[
+  {
+    "Address": "12VuUfQHTGqWDvBzm8TBad1mZBm4hjGEzN",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "1DEuKerATHWRfyB14s6QCt4LPkfCTx4zaW",
+    "Label": "Binance BTC",
+    "Category": "Hot"
+  },
+  {
+    "Address": "1KuPikhUYtHz3fmSQ2UvotpUuN672NuEcm",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "1PJiGp2yDLvUgqeBsuZVCBADArNsk6XEiw",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "1PPWMe42cywnM61nVatkmiggwdRQYLiCyS",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "1Pzaqw98PeRfyHypfqyEgg5yycJRsENrE7",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "31jUs8yQNVc9p6YuUPctWCkdhH7u8UiUba",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "32BgTv3NSYbMsBTwDbNNN2GKZPCTJSkqDv",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "32bhzEniykYRFADVaRM5PYswsjC23cxtes",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "32KqbtrRVxC6GLUJgJhVQtFTaCdq4GrgBb",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "32z4XkTCBMp4QfcoobxaXtJkWngyHqGjHp",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "33TDwJRsFJbtSEwkXGwtJkj3Ey3Gman3TV",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "34HpHYiyQwg69gFmCq2BGHjF1DZnZnBeBP",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "34ryUknRsda7w9yXqzjLhgRPZLPV43rpsd",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "36oiSkAi1VVuUpfdv8E2V5fZ2EarHRJpis",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "36yB51gULVXXnvyWmvAoCVjq6igZUiHf3y",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "378GLcve92X2Q4UrCyoMFDL5k5QrzeG7JN",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "395vnFScKQ1ay695C6v7gf89UzoFpx3WuJ",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "39CnKMu9KWvFAabLJ5BYghVfSqHgC2VShe",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3AeUiDpPPUrUBS377584sFCpx8KLfpX9Ry",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3AQ8bAh88TQU7JV1H3ovXrwsuV6s3zYZuN",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "3AtnehKDkFPC1bKvdrEVPSRGCtxQH8F1R8",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "3BzYxZXkdpkrFTWzKkWGRoWXJMuN2Ko621",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3CySuFKbBS29M7rE5iJakZRNqb3msMeFoN",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "3E97AjYaCq9QYnfFMtBCYiCEsN956Rvpj2",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "3EVVc8e2rxwUuERtdJCduWig8DnpsUqyA6",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "3F1ZmTDAv6q3xrnT3tpm55DkCDzxhstU2Z",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3FHNBLobJnbCTFTVakh5TXmEneyf5PT61B",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3FJ9hQuRtzy7pCqKHjeBGRDcY3fJbhHYXD",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3HdGoUTbcztBnS7UzY4vSPYhwr424CiWAA",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3HkgC2R5PhqyXy6RVFyemvxN1VuFbQiQ5V",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "3HkPQSi1xso1Zh1EeqLjkMpura63fr5HRn",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3JFJPpH8Chwo7CDbyYQ4XcfgcjEP1FGRMJ",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3KRduELtTmxBtqYpZviPysXoJDxdtdxFLZ",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3Kyo49ThRZPMukuYqPgqPejYeUpHvkA1EM",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3LcgLHzTvjLKBixBvkKGiadtiw2GBSKKqH",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3LQUu4v9z6KNch71j7kbj8GPeAGUo1FW6a",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3M219KR5vEneNb47ewrPfWyb5jQ2DjxRP6",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3M3EtJGx5Dy9nCATLDhyRCrKGc38QC9z2e",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "3NjHh71XgjikBoTNYdWgXiNeZcLaKNThgb",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "3Nm3c4gqVmvCmeP1sYvDchbb1r4QMu6emn",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3PXBET2GrTwCamkeDzKCx8DeGDyrbuGKoc",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "3Q6ZCgJ3e4shasccLHen1VNUpReZTsjmsR",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "3QK5vQ9hucSg8ZC8Vizq83qEWeHFLAWMud",
+    "Label": "Binance BTC",
+    "Category": "Transit"
+  },
+  {
+    "Address": "bc1q32lyrhp9zpww22phqjwwmelta0c8a5q990ghs6",
+    "Label": "Binance BTC (Ceffu)",
+    "Category": "Cold"
+  },
+  {
+    "Address": "bc1q5n5dy7jgqhmpnmx44d3780qefzaphjreds0z9y",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "bc1q5qvs2dzzydqt4ygfn0k0ertjnv8ctytgcdz7l0",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "bc1q5rsc4uscnmemlwru8xsys26k3xgxewqfnf3k7j",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "bc1q78ufzeu8w8fwvxuphrdlg446xhyptf28fkatu5",
+    "Label": "Binance BTC (Ceffu)",
+    "Category": "Cold"
+  },
+  {
+    "Address": "bc1q7t9fxfaakmtk8pj7tdxjvwsng6y9x76czuaf5h",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "bc1q9n7j6a5wwru6tad9xrlncnagresvyjt96pl3en",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "bc1qdtmav38lca8yu3rrcknnqx5242cckgxqws7m72",
+    "Label": "Binance BTC",
+    "Category": "Hot"
+  },
+  {
+    "Address": "bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h",
+    "Label": "Binance BTC",
+    "Category": "Cold"
+  },
+  {
+    "Address": "bc1qq393eyjh8hdjvcchy0mxquhh9wx8h3kzlkchfs",
+    "Label": "Binance BTC (Ceffu)",
+    "Category": "Cold"
+  },
+  {
+    "Address": "bc1qquax5zzensg9mkejdgq3q3h76v34cug96zk0f6",
+    "Label": "Binance BTC",
+    "Category": "Hot"
+  },
+  {
+    "Address": "bc1qhnkhmyx43k9uewvftqup259yp8h39wj2ewc50h",
+    "Label": "Binance BTC (Ceffu)",
+    "Category": "Cold"
+  }
+]

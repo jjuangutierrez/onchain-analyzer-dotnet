@@ -4,5 +4,5 @@ namespace OnChainAnalyzer.Application.Interfaces;
 
 public interface IUtxoProvider
 {
-    Task<IReadOnlyList<Utxo>> GetUtxosAsync(string address);
+    Task<IReadOnlyList<Utxo>> GetUtxosAsync(string address, CancellationToken c = default);
 }

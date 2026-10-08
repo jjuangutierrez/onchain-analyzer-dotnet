@@ -11,6 +11,10 @@
     <ItemGroup>
       <ProjectReference Include="..\OnChainAnalyzer.Application\OnChainAnalyzer.Application.csproj" />
       <ProjectReference Include="..\OnChainAnalyzer.Infrastructure\OnChainAnalyzer.Infrastructure.csproj" />
+        
+        <None Update="watchlist.json">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>           
+        </None>
     </ItemGroup>
 
 </Project>
